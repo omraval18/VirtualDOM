@@ -1,4 +1,3 @@
 # 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/omraval18/pen/LYBpZbr](https://codepen.io/omraval18/pen/LYBpZbr).
-
+This is a Implementation of the Virtual DOM used in every browser. You can run test the code from `dist` folder.   
